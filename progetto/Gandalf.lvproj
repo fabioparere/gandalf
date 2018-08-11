@@ -13,6 +13,8 @@
 		<Item Name="SubVis" Type="Folder">
 			<Item Name="func1.vi" Type="VI" URL="../SubVis/func1.vi"/>
 			<Item Name="func2.vi" Type="VI" URL="../SubVis/func2.vi"/>
+			<Item Name="func3.vi" Type="VI" URL="../SubVis/func3.vi"/>
+			<Item Name="func4.vi" Type="VI" URL="../SubVis/func4.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
