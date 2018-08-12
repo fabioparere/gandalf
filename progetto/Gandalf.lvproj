@@ -10,6 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="libtoolkit1" Type="Folder">
+			<Item Name="libtoolkit1.lvlib" Type="Library" URL="../libtoolkit1/libtoolkit1.lvlib"/>
+		</Item>
 		<Item Name="SubVis" Type="Folder">
 			<Item Name="func1A.vi" Type="VI" URL="../SubVis/func1A.vi"/>
 			<Item Name="func1B.vi" Type="VI" URL="../SubVis/func1B.vi"/>
